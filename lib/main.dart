@@ -150,7 +150,7 @@ class MyApp extends StatelessWidget {
                                             mainAxisAlignment: MainAxisAlignment.spaceBetween,
                                             children: <Widget>[
                                               const Text(
-                                                'LOGIN',
+                                                'Login',
                                                 style: TextStyle(
                                                   color: Colors.white,
                                                   fontSize: 20,
