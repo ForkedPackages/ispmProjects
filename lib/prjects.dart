@@ -2,12 +2,12 @@ import 'package:flutter/material.dart';
 import 'package:modal_bottom_sheet/modal_bottom_sheet.dart';
 import 'package:ultra_app/deatels_screen.dart';
 
-class HomePage extends StatefulWidget {
+class Projects extends StatefulWidget {
   @override
-  _HomePageState createState() => _HomePageState();
+  _ProjectsState createState() => _ProjectsState();
 }
 
-class _HomePageState extends State<HomePage> {
+class _ProjectsState extends State<Projects> {
   List<Widget> doctors = [
     Doctors(
       isAvilable: true,
